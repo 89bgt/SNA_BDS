@@ -29,7 +29,6 @@ env/
 ENV/
 
 # Données brutes et volumineuses
-*.csv
 *.json
 *.jsonl
 *.pkl
@@ -38,8 +37,6 @@ data/raw/
 data/cleaned/
 
 # Résultats et fichiers temporaires
-results/
-*.gephi
 *.log
 .DS_Store
 Thumbs.db
