@@ -1,0 +1,22 @@
+COLUMN DESCRIPTIONS
+============================================================
+id                        = Post ID unique
+subreddit                 = r/BDS ou r/BoycottIsrael
+permalink                 = URL pour vérification
+title                     = Titre du post
+selftext                  = Texte du post
+created_utc               = Timestamp UTC
+author                    = Auteur du post
+score                     = Score total (upvotes - downvotes)
+ups                       = Upvotes
+downs                     = Downvotes
+num_comments              = Nombre de commentaires
+upvote_ratio              = Ratio upvotes/total
+author_fullname           = ID Reddit de l'auteur
+subreddit_subscribers     = Taille de la communauté
+total_awards_received     = Indicateur d'impact
+link_flair_text           = Catégorie/thème du post
+over_18                   = Contenu NSFW
+locked                    = Discussion fermée
+created_local             = Timestamp local
+edited                    = Si édité
